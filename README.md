@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah al talaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al talaq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abdullahaltalaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdullahaltalaq" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdullahtalaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullahtalaq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-al-talaq-268599250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al talaq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abdullahaltalaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdullahaltalaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
